@@ -1,7 +1,7 @@
 #!/bin/bash
 
-REPOSITORY=/home/ec2-user/app/step2
-PROJECT_NAME=aws_springboot
+REPOSITORY=/home/ec2-user/app/step1
+PROJECT_NAME=aws_springboot-com
 
 echo "> Build 파일 복사"
 
